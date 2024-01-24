@@ -1,5 +1,7 @@
 Weed Classification for Robotic Agriculture
 
+Powtoon video: https://www.youtube.com/watch?v=kMjza42QGhQ
+
 Fertilizers play a crucial role in enhancing crop production
 and ensuring bountiful harvests. However, overreliance on
 chemical fertilizers poses risks to both human health and
